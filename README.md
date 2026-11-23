@@ -1,115 +1,144 @@
 
-<h1 align="center">Hi 👋, I'm Md Adil Alam</h1>
-<h3 align="center">Computer Science Engineer | IT Support | Networking Enthusiast</h3>
+<h1 align="center">🌐 Networking Labs</h1>
+
+<h3 align="center">Learning | Practicing | Building</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=IT+Support+Professional;Desktop+Support+Enthusiast;Networking+Learner;Aspiring+Network+Engineer" />
+  <img src="https://img.shields.io/badge/Computer-Networking-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IT-Support-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Network-Learning-orange?style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About This Repository
 
-- 🎓 B.Tech in Computer Science & Engineering (2026)
-- 💻 Interested in IT Support and Desktop Support
-- 🌐 Learning Computer Networking and Network Administration
-- 🖥️ Practicing Windows Server 2022 and Virtualization
-- 🔧 Interested in Hardware and Software Troubleshooting
-- 🚀 Passionate about learning and building practical IT projects
+Welcome to my Computer Networking Labs repository!
 
----
+I'm Md Adil Alam, a Computer Science Engineer interested in IT Support, Desktop Support, Network Administration, and System Administration.
 
-## 🛠️ Technical Skills
-
-**Networking**
-- TCP/IP, DHCP, DNS
-- LAN & WAN Fundamentals
-- IP Addressing and Subnetting
-- Basic Network Troubleshooting
-
-**Operating Systems**
-- Windows 10 / 11
-- Windows Server 2022
-- Linux Fundamentals
-
-**Tools & Technologies**
-- Cisco Packet Tracer
-- VMware
-- VirtualBox
-- Git & GitHub
-
-**Programming**
-- Python
-- Java
-- C++
+This repository documents my practical learning journey in computer networking through hands-on labs, command-line exercises, configurations, and troubleshooting.
 
 ---
 
-## 💻 Tech Stack
+## 🎯 Learning Objectives
 
-### Networking & IT Support
-
-![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+- Understand Networking Fundamentals
+- Learn OSI and TCP/IP Models
+- Practice IP Addressing and Subnetting
+- Understand DHCP and DNS
+- Configure and troubleshoot LAN networks
+- Learn Network Devices and Protocols
+- Develop practical troubleshooting skills
 
 ---
 
-## 📂 Projects & Practical Labs
+## 📚 Practical Labs
 
-| Project | Description |
+| Lab No. | Topic | Status |
+|---|---|---|
+| 01 | Basic Networking Commands | In Progress |
+| 02 | OSI Model | Planned |
+| 03 | TCP/IP Model | Planned |
+| 04 | IP Addressing | Planned |
+| 05 | Subnetting | Planned |
+| 06 | DHCP | Planned |
+| 07 | DNS | Planned |
+| 08 | LAN Configuration | Planned |
+| 09 | Cisco Packet Tracer | Planned |
+| 10 | Network Troubleshooting | Planned |
+
+---
+
+## 💻 Networking Commands
+
+Some Windows networking commands I am practicing:
+
+| Command | Purpose |
 |---|---|
-| Networking Labs | Networking concepts and practical exercises |
-| Windows Server Lab | Windows Server 2022 practice |
-| Virtualization Lab | VMware and VirtualBox experiments |
-| Student Management System | Academic programming project |
+| `ipconfig` | Display IP configuration |
+| `ipconfig /all` | Display detailed network information |
+| `ipconfig /release` | Release DHCP-assigned IP |
+| `ipconfig /renew` | Request a new IP address |
+| `ping` | Test network connectivity |
+| `tracert` | Trace network route |
+| `nslookup` | Query DNS information |
+| `hostname` | Display computer name |
+| `netstat` | Display network connections |
 
 ---
 
-## 📊 GitHub Statistics
+## 🛠️ Tools & Technologies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdadilalam024&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdadilalam024&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<p>
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-00ADEF?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 🎯 Career Goals
+## 📁 Repository Structure
 
-- Grow as an IT Support Professional
-- Develop practical networking skills
-- Learn System Administration
-- Work towards becoming a Network Engineer
+```text
+Networking-Labs/
+│
+├── README.md
+│
+├── 01-Basic-Networking-Commands/
+│   └── README.md
+│
+├── 02-OSI-TCP-IP-Models/
+│   └── README.md
+│
+├── 03-IP-Addressing/
+│   └── README.md
+│
+├── 04-Subnetting/
+│   └── README.md
+│
+├── 05-DHCP/
+│   └── README.md
+│
+├── 06-DNS/
+│   └── README.md
+│
+├── 07-Cisco-Packet-Tracer/
+│   └── README.md
+│
+└── 08-Network-Troubleshooting/
+    └── README.md
+```
 
 ---
 
-## 🤝 Connect With Me
+## 🚀 Future Goals
 
-<p align="left">
-  <a href="https://github.com/mdadilalam024">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+- Complete practical networking labs
+- Build network topologies using Cisco Packet Tracer
+- Practice Windows Server administration
+- Improve troubleshooting skills
+- Prepare for Network Engineer opportunities
+
+---
+
+## 👨‍🎓 Author
+
+**Md Adil Alam**
+
+Computer Science Engineer | IT Support | Desktop Support | Networking Enthusiast
+
+GitHub: https://github.com/mdadilalam024
 
 ---
 
 <p align="center">
-  <b>Learning | Building | Growing 🚀</b>
+  ⭐ Thank you for visiting my Networking Labs repository!
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  <b>Keep Learning. Keep Practicing. Keep Growing. 🚀</b>
 </p>

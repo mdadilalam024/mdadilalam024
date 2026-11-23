@@ -1,11 +1,10 @@
 
-# Hi, I'm Md Adil Alam 👋
+<h1 align="center">Hi 👋, I'm Md Adil Alam</h1>
+<h3 align="center">Computer Science Engineer | IT Support | Networking Enthusiast</h3>
 
-### Computer Science Engineer | IT Support | Desktop Support | Networking
-
-I'm a Computer Science graduate interested in IT Support, Desktop Support, System Administration, and Computer Networking.
-
-I enjoy troubleshooting technical issues, learning new technologies, and building practical IT projects.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=IT+Support+Professional;Desktop+Support+Enthusiast;Networking+Learner;Aspiring+Network+Engineer" />
+</p>
 
 ---
 
@@ -14,31 +13,29 @@ I enjoy troubleshooting technical issues, learning new technologies, and buildin
 - 🎓 B.Tech in Computer Science & Engineering (2026)
 - 💻 Interested in IT Support and Desktop Support
 - 🌐 Learning Computer Networking and Network Administration
-- 🖥️ Practicing Windows Server and Virtualization
+- 🖥️ Practicing Windows Server 2022 and Virtualization
 - 🔧 Interested in Hardware and Software Troubleshooting
-- 🚀 Always learning and improving my technical skills
+- 🚀 Passionate about learning and building practical IT projects
 
 ---
 
 ## 🛠️ Technical Skills
 
 **Networking**
-- TCP/IP
-- DHCP
-- DNS
-- LAN & WAN
+- TCP/IP, DHCP, DNS
+- LAN & WAN Fundamentals
+- IP Addressing and Subnetting
 - Basic Network Troubleshooting
-- Cisco Packet Tracer
 
 **Operating Systems**
 - Windows 10 / 11
 - Windows Server 2022
 - Linux Fundamentals
 
-**Tools**
+**Tools & Technologies**
+- Cisco Packet Tracer
 - VMware
 - VirtualBox
-- Cisco Packet Tracer
 - Git & GitHub
 
 **Programming**
@@ -48,12 +45,45 @@ I enjoy troubleshooting technical issues, learning new technologies, and buildin
 
 ---
 
+## 💻 Tech Stack
+
+### Networking & IT Support
+
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+---
+
 ## 📂 Projects & Practical Labs
 
-- Network Configuration & Troubleshooting Labs
-- Windows Server 2022 Practice Lab
-- Virtual Machine Setup and Configuration
-- Student Management System
+| Project | Description |
+|---|---|
+| Networking Labs | Networking concepts and practical exercises |
+| Windows Server Lab | Windows Server 2022 practice |
+| Virtualization Lab | VMware and VirtualBox experiments |
+| Student Management System | Academic programming project |
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdadilalam024&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdadilalam024&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
@@ -68,10 +98,18 @@ I enjoy troubleshooting technical issues, learning new technologies, and buildin
 
 ## 🤝 Connect With Me
 
-- GitHub: [@mdadilalam024](https://github.com/mdadilalam024)
+<p align="left">
+  <a href="https://github.com/mdadilalam024">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+  <b>Learning | Building | Growing 🚀</b>
+</p>
 
-*Learning, Building, and Growing in Technology.*
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
